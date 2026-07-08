@@ -1,0 +1,8 @@
+{
+  "class_name": "TelemetryData",
+  "fields": [
+    {"name": "device_id", "type": "int"},
+    {"name": "temperature", "type": "float"},
+    {"name": "status_code", "type": "int"}
+  ]
+}
